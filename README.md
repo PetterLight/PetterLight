@@ -8,7 +8,7 @@
 
 <!--=== Texto de Introdução ===-->
 <div>
-    <h1>[👋] • Introdução</h1>
+    <h1>👋 • Introdução</h1>
     <blockquote>Olá! Me chamo Petter, mais conhecido como PetterLight, não faço códigos publicos no github, porém colaboro em organizações e com repositórios de outras pessoas.</blockquote>
 </div>
 
@@ -17,7 +17,7 @@
 
 <!--=== Texto de Habilidades ===-->
 <div>
-    <h1>[🎯] • Skills</h1>
+    <h1>🎯 • Skills</h1>
     <blockquote>Developer Principal de php</blockquote>
     <blockquote>Focado em estudar javascript</blockquote>
     <blockquote>Amante de CSS/HTML e frameworks</blockquote>
